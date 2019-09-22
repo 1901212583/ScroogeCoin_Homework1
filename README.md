@@ -1,5 +1,5 @@
 # Homework 1 : ScroogeCoin
-**Name**: He Junxian  
+**Name**: He Junxian  何隽贤 
 **ID**:1901212583
 
 # Summary
