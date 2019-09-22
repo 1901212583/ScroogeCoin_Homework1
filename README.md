@@ -497,3 +497,6 @@ public void testUXTOPoolUpdate()
 
 	}	
 ```
+## Test results
+Our ScroogeCoin design passed all 6 tests mentioned above. The following picture is a screenshot of Intellij Idea IDE.
+ ![passingalltests](passing_all_tests.png "passingalltests")
